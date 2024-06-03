@@ -1,5 +1,9 @@
 # awesome-php
 
+### Database Import
+
+* [BigDump](https://github.com/fadlee/bigdump)
+
 ### Framework
 
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
